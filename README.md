@@ -16,7 +16,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://your-solution-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/social-link-TRRd0YghZ4)
 - Live Site URL: [Live](https://alejandrolr00.github.io/social-link/)
 
 
